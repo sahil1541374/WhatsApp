@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964366025811",
+    "project_id": "messageing-fab5e",
+    "storage_bucket": "messageing-fab5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964366025811:android:24e120cdb6cbf351c932a6",
+        "android_client_info": {
+          "package_name": "com.example.messageing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964366025811-feqr97k9qlm46pus5d04nfa1m6e3u954.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGYTBE7q_RwO8xFNJ1DNENn1ru3Zp_Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964366025811-feqr97k9qlm46pus5d04nfa1m6e3u954.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
